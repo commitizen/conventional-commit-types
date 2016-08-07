@@ -21,7 +21,7 @@
     "description": "Adding missing tests"
   },
   "chore": {
-    "description": "Changes to the build process or auxillary tools and libraries such as documentation generation"
+    "description": "Changes to the build process or auxiliary tools and libraries such as documentation generation"
   },
   "revert": {
     "description": "Reverts a previous commit"
