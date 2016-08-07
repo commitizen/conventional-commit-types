@@ -1,0 +1,29 @@
+{
+  "feat": {
+    "description": "A new feature"
+  },
+  "fix": {
+    "description": "A bug fix"
+  },
+  "docs": {
+    "description": "Documentation only changes"
+  },
+  "style": {
+    "description": "Changes that do not affect the meaning of the code (white-space, formatting, missing semi-colons, etc.)"
+  },
+  "refactor": {
+    "description": "A code change that neither fixes a bug or adds a feature"
+  },
+  "perf": {
+    "description": "A code change that improves performance"
+  },
+  "test": {
+    "description": "Adding missing tests"
+  },
+  "chore": {
+    "description": "Changes to the build process or auxillary tools and libraries such as documentation generation"
+  },
+  "revert": {
+    "description": "Reverts a previous commit"
+  }
+}
