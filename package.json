@@ -8,5 +8,9 @@
   },
   "keywords": [],
   "author": "Anders D. Johnson <anders.d.johnson.developer@gmail.com> (https://andrz.me/)",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AndersDJohnson/conventional-commit-types.git"
+  }
 }
