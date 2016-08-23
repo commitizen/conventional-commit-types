@@ -2,6 +2,8 @@
 
 List of conventional commit types.
 
+Exports an object with a `types` key whose value is an object whose keys are type names and whose values are objects with key-value pairs such as `description` as string, etc. See [index.json](index.json). Any alternatives should follow the same spec.
+
 Used by [commitizen/cz-conventional-changelog](https://github.com/commitizen/cz-conventional-changelog) for [commitizen/cz-cli](https://github.com/commitizen/cz-cli).
 
 Commit types originally from:
