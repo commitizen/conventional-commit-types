@@ -13,6 +13,8 @@ Exports an object with a `types` key whose value is an object whose keys are typ
 
 Used by [commitizen/cz-conventional-changelog](https://github.com/commitizen/cz-conventional-changelog) for [commitizen/cz-cli](https://github.com/commitizen/cz-cli).
 
+Can be used with [kentcdodds/validate-commit-msg](https://github.com/kentcdodds/validate-commit-msg#types).
+
 Commit types originally from:
 * [AngularJS Git Commit Message Conventions](https://docs.google.com/document/d/1QrDFcIiPjSLDn3EL15IJygNPiHORgU1_OOAqWjiDU5Y/edit#heading=h.8gbcep5xnw19)
 * [commitizen/cz-conventional-changelog](https://github.com/commitizen/cz-conventional-changelog)
