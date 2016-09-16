@@ -1,6 +1,6 @@
 # conventional-commit-types
 
-[![npm](https://img.shields.io/npm/v/npm.svg?maxAge=2592000)](https://www.npmjs.com/package/conventional-commit-types)
+[![npm](https://img.shields.io/npm/v/conventional-commit-types.svg?maxAge=2592000)](https://www.npmjs.com/package/conventional-commit-types)
 [![Build Status](https://img.shields.io/travis/adjohnson916/conventional-commit-types.svg?maxAge=2592000)](https://travis-ci.org/adjohnson916/conventional-commit-types)
 
 List of conventional commit types.
