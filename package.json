@@ -7,7 +7,7 @@
     "test": "json -f index.json"
   },
   "keywords": [],
-  "author": "Anders D. Johnson <anders.d.johnson.developer@gmail.com> (https://andrz.me/)",
+  "author": "Anders D. Johnson (https://andrz.me/)",
   "license": "ISC",
   "repository": {
     "type": "git",
