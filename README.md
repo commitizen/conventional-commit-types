@@ -7,7 +7,7 @@ List of conventional commit types.
 
 ## Spec
 
-Exports an object with a `types` key whose value is an object whose keys are type names and whose values are objects with key-value pairs such as `description` as string, etc. See [index.json](index.json). Any alternatives should follow the same spec.
+Exports an object with a `types` key whose value is an object whose keys are type names and whose values are objects with key-value pairs such as `description` as string, optional `title` as string, etc. See [index.json](index.json). Any alternatives should follow the same spec.
 
 ## Etc.
 
