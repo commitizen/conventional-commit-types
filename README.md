@@ -16,7 +16,7 @@ Used by [commitizen/cz-conventional-changelog](https://github.com/commitizen/cz-
 Can be used with [kentcdodds/validate-commit-msg](https://github.com/kentcdodds/validate-commit-msg#types).
 
 Commit types originally from:
-* [AngularJS Git Commit Message Conventions](https://github.com/angular/angular/blob/master/CONTRIBUTING.md#type)
+* [Angular Git Commit Message Conventions](https://github.com/angular/angular/blob/master/CONTRIBUTING.md#type)
 * [commitizen/cz-conventional-changelog](https://github.com/commitizen/cz-conventional-changelog)
 
 Created for [AndersDJohnson/conventional-commit-types-cli](https://github.com/AndersDJohnson/conventional-commit-types-cli).
