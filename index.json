@@ -36,10 +36,6 @@
       "description": "Changes to our CI configuration files and scripts (example scopes: Travis, Circle, BrowserStack, SauceLabs)",
       "title": "Continuous Integrations"
     },
-    "chore": {
-      "description": "Other changes that don't modify src or test files",
-      "title": "Chores"
-    },
     "revert": {
       "description": "Reverts a previous commit",
       "title": "Reverts"
