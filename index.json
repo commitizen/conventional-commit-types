@@ -24,6 +24,10 @@
       "description": "A code change that improves performance",
       "title": "Performance Improvements"
     },
+    "security": {
+      "description": "A code change that improves security or fixes an issue with security",
+      "title": "Security"
+    },
     "test": {
       "description": "Adding missing tests or correcting existing tests",
       "title": "Tests"
