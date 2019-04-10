@@ -1,13 +1,13 @@
 {
   "name": "conventional-commit-types",
-  "version": "2.1.0",
+  "version": "2.1.1",
   "description": "List of conventional commit types.",
   "main": "index.json",
   "scripts": {
     "test": "json -f index.json"
   },
   "keywords": [],
-  "author": "Anders D. Johnson (https://andrz.me/)",
+  "author": "Anders D. Johnson (https://andersdjohnson.com)",
   "license": "ISC",
   "repository": {
     "type": "git",
