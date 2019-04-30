@@ -43,6 +43,10 @@
     "revert": {
       "description": "Reverts a previous commit",
       "title": "Reverts"
+    },
+    "BREAKING CHANGE": {
+      "description": "Acode change that is a breaking API change (results in bumping of MAJOR version)",
+      "title": "Breaking Change"
     }
   }
 }
