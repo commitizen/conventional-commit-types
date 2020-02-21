@@ -1,48 +1,21 @@
 {
   "types": {
     "feat": {
-      "description": "A new feature",
+      "description": "完成了一个新功能",
       "title": "Features"
     },
     "fix": {
-      "description": "A bug fix",
+      "description": "修复 bug",
       "title": "Bug Fixes"
     },
     "docs": {
-      "description": "Documentation only changes",
+      "description": "改动文档类的文件",
       "title": "Documentation"
     },
     "style": {
-      "description": "Changes that do not affect the meaning of the code (white-space, formatting, missing semi-colons, etc)",
+      "description": "样式的修改，不涉及代码逻辑",
       "title": "Styles"
-    },
-    "refactor": {
-      "description": "A code change that neither fixes a bug nor adds a feature",
-      "title": "Code Refactoring"
-    },
-    "perf": {
-      "description": "A code change that improves performance",
-      "title": "Performance Improvements"
-    },
-    "test": {
-      "description": "Adding missing tests or correcting existing tests",
-      "title": "Tests"
-    },
-    "build": {
-      "description": "Changes that affect the build system or external dependencies (example scopes: gulp, broccoli, npm)",
-      "title": "Builds"
-    },
-    "ci": {
-      "description": "Changes to our CI configuration files and scripts (example scopes: Travis, Circle, BrowserStack, SauceLabs)",
-      "title": "Continuous Integrations"
-    },
-    "chore": {
-      "description": "Other changes that don't modify src or test files",
-      "title": "Chores"
-    },
-    "revert": {
-      "description": "Reverts a previous commit",
-      "title": "Reverts"
     }
   }
 }
+

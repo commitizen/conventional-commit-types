@@ -1,5 +1,5 @@
 {
-  "name": "conventional-commit-types",
+  "name": "mingway-commit-types",
   "version": "3.0.0",
   "description": "List of conventional commit types.",
   "main": "index.json",
@@ -7,11 +7,11 @@
     "test": "json -f index.json"
   },
   "keywords": [],
-  "author": "Anders D. Johnson",
+  "author": "Mingway",
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "https://github.com/commitizen/conventional-commit-types.git"
+    "url": "https://github.com/mingway426/conventional-commit-types.git"
   },
   "devDependencies": {
     "json": "^9.0.4"
