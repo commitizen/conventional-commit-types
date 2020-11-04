@@ -8,6 +8,10 @@
       "description": "A bug fix",
       "title": "Bug Fixes"
     },
+    "doc": {
+      "description": "Documentation only changes",
+      "title": "Documentation"
+    },
     "docs": {
       "description": "Documentation only changes",
       "title": "Documentation"
