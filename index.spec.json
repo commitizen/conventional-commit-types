@@ -1,0 +1,27 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Conventional Commit Types Data Schema",
+  "additionalProperties": true,
+  "definitions": {
+    "commitType": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "description": {
+          "type": "string"
+        },
+        "title": {
+          "type": "string"
+        }
+      },
+      "required": ["description", "title"]
+    }
+  },
+  "properties": {
+    "types": {
+      "type": "object",
+      "additionalProperties": { "$ref": "#/definitions/commitType" }
+    }
+  },
+  "required": ["types"]
+}
