@@ -1,7 +1,9 @@
-const { validate } = require("jsonschema");
+var jsonschema = require("jsonschema");
+var fs = require("fs");
 
-const [data, schema] = [require("./index.json"), require("./index.spec.json")];
+var data = fs.readFileSync("./index.json");
+var schema = fs.readFileSync("./index.spec.json");
 
-validate(data, schema, {
+jsonschema.validate(JSON.parse(data), JSON.parse(schema), {
   throwAll: true,
 });
