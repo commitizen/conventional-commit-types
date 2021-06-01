@@ -4,7 +4,7 @@
   "description": "List of conventional commit types.",
   "main": "index.json",
   "scripts": {
-    "test": "node index.spec.mjs"
+    "test": "node index.spec"
   },
   "keywords": [],
   "author": "Anders D. Johnson",
