@@ -4,7 +4,7 @@
   "description": "List of conventional commit types.",
   "main": "index.json",
   "scripts": {
-    "test": "json -f index.json"
+    "test": "node index.spec"
   },
   "keywords": [],
   "author": "Anders D. Johnson",
@@ -14,6 +14,6 @@
     "url": "https://github.com/commitizen/conventional-commit-types.git"
   },
   "devDependencies": {
-    "json": "^9.0.4"
+    "jsonschema": "^1.4.0"
   }
 }

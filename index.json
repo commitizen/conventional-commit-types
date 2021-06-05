@@ -1,4 +1,5 @@
 {
+  "$schema": "./index.spec.json",
   "types": {
     "feat": {
       "description": "A new feature",
